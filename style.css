@@ -24,12 +24,14 @@ h1 {
 
 .half-width img{
     width: 80%;
+   
 }
+
 
 
 .btn{
     text-decoration: none;
-    background-image: linear-gradient(tomato,rgb(255, 189, 134));
+    background-image: linear-gradient(#f75656,#fd38a8);
     color: white;
     font-weight: 700;
     padding: 10px 40px;
@@ -44,7 +46,7 @@ h1 {
 }
 
 .dream-big{
-    background-image: url(img/dream-bg.png);
+    background-image:url(img/dream-big3.png);
     background-repeat: no-repeat;
     background-position: right bottom;
 
@@ -55,7 +57,7 @@ h1 {
 .experiences-area{
     background-image: url(img/exp-bg.png);
     background-repeat:no-repeat;
-    background-position: left;
+    background-position: left bottom;
 }
 
 .experiences-item{
@@ -69,7 +71,7 @@ h1 {
 
 #full-stack{
     border-left: 7px solid;
-    border-image: linear-gradient(tomato,rgb(255, 189, 134));
+    border-image: linear-gradient(#f75656,#fd38a8);
     border-image-slice:1;
 }
 
